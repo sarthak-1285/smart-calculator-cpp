@@ -110,6 +110,6 @@ This project was built as part of a structured 5-month C++ learning roadmap to d
 
 ## Author
 
-Sarthak
+Sarthak Gote
 
-GitHub: Add your GitHub profile link here.
+GitHub: https://github.com/sarthak-1285.
